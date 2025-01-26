@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Angel Romero Baez</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Software Developer and Entrepreneur</description>
+	<lastBuildDate>Sun, 26 Jan 2025 02:51:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
+	<item>
+		<title>Hello World. Why starting a blog is a good idea</title>
+		<link>/hello-world/</link>
+		
+		<dc:creator><![CDATA[angel]]></dc:creator>
+		<pubDate>Sun, 26 Jan 2025 01:15:05 +0000</pubDate>
+				<category><![CDATA[Introduction]]></category>
+		<category><![CDATA[Reflections and Opinions]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[ I have decided to start writing again, but I&#8217;m taking it seriously now. Self-reflection, critical thinking, and sustaining focus for more extended sessions are the most important skills someone can have, and writing is a great way to improve them, if not the best. I’ll write about: I hope you find something useful. Have a [&#8230;]]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
